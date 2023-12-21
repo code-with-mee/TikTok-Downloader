@@ -1,0 +1,15 @@
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\bin\Debug\TikTokDownloader.exe.config
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\bin\Debug\TikTokDownloader.exe
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\bin\Debug\TikTokDownloader.pdb
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\obj\Debug\TikTokDownloader.csproj.AssemblyReference.cache
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\obj\Debug\TikTokDownloader.Form1.resources
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\obj\Debug\TikTokDownloader.Properties.Resources.resources
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\obj\Debug\TikTokDownloader.csproj.GenerateResource.cache
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\obj\Debug\TikTokDownloader.csproj.CoreCompileInputs.cache
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\obj\Debug\TikTokDownloader.exe
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\obj\Debug\TikTokDownloader.pdb
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\bin\Debug\Newtonsoft.Json.dll
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\bin\Debug\Leaf.xNet.xml
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\bin\Debug\Newtonsoft.Json.xml
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\obj\Debug\TikTokDownloader.csproj.CopyComplete
+D:\TOOLS\MagicDownload\MagicDownload\TikTokDownloader\obj\Debug\TikTokDownloader.DownloadProgress.resources

@@ -1,0 +1,13 @@
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\bin\Debug\MagicDownload.exe.config
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\bin\Debug\MagicDownload.exe
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\bin\Debug\MagicDownload.pdb
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\bin\Debug\Leaf.xNet.dll
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\bin\Debug\Leaf.xNet.xml
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\obj\Debug\MagicDownload.csproj.AssemblyReference.cache
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\obj\Debug\MagicDownload.csproj.SuggestedBindingRedirects.cache
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\obj\Debug\MagicDownload.csproj.CoreCompileInputs.cache
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\obj\Debug\MagicDownload.csproj.CopyComplete
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\obj\Debug\MagicDownload.exe
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\obj\Debug\MagicDownload.pdb
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\bin\Debug\Newtonsoft.Json.dll
+D:\TOOLS\MagicDownload\MagicDownload\MagicDownload\bin\Debug\Newtonsoft.Json.xml
